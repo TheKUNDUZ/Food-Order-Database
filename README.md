@@ -1,4 +1,5 @@
 											Yemek Siparişi Veritabanı Projesi
+
 Ilişkilerin görsel hali database.png adlı dosyadır.
 Tablolar ve ilişkiler:
 
